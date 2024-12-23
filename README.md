@@ -102,7 +102,7 @@ streamlit run app.py
 
 In your browser, you will see the page below:
 
-![image](https://github.com/user-attachments/assets/dc54100c-3b5f-4e93-8e4b-680cc1f14208)
+![image](https://github.com/user-attachments/assets/40e74dcf-d1e6-4208-ab52-bab9269f5ae4)
 
 Download the example txt file in the left.
 
