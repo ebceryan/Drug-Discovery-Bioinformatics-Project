@@ -94,8 +94,7 @@ I recorded the model as "**acetylcholinesterase_model.pkl**" file.
 
 ## Part 5 - Streamlit Application
 
-Run app.py file.
-In terminal, type streamlit run app.py (I used VS Code)
+In terminal, run app.py file(I used VS Code).
 
 ```
 streamlit run app.py
